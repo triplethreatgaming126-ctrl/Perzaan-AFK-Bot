@@ -8,7 +8,7 @@
   "server": {
     "ip": "threegameratitspeak.aternos.me",
     "port": 54009,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
